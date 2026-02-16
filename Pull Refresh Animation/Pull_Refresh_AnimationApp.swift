@@ -1,6 +1,6 @@
 //
-//  Pull_Refresh_Animation_V2App.swift
-//  Pull Refresh Animation_V2
+//  Pull_Refresh_AnimationApp.swift
+//  Pull Refresh Animation
 //
 //  Created by Ivan Voznyi on 2/8/26.
 //

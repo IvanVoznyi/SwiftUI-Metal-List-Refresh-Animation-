@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		56C997482F393339006DE9A9 /* Pull Refresh Animation_V2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pull Refresh Animation_V2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		56C997482F393339006DE9A9 /* Pull Refresh Animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pull Refresh Animation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		56C9974A2F393339006DE9A9 /* Pull Refresh Animation_V2 */ = {
+		56C9974A2F393339006DE9A9 /* Pull Refresh Animation */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Pull Refresh Animation_V2";
+			path = "Pull Refresh Animation";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		56C9973F2F393339006DE9A9 = {
 			isa = PBXGroup;
 			children = (
-				56C9974A2F393339006DE9A9 /* Pull Refresh Animation_V2 */,
+				56C9974A2F393339006DE9A9 /* Pull Refresh Animation */,
 				56C997492F393339006DE9A9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		56C997492F393339006DE9A9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				56C997482F393339006DE9A9 /* Pull Refresh Animation_V2.app */,
+				56C997482F393339006DE9A9 /* Pull Refresh Animation.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		56C997472F393339006DE9A9 /* Pull Refresh Animation_V2 */ = {
+		56C997472F393339006DE9A9 /* Pull Refresh Animation */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 56C997532F39333A006DE9A9 /* Build configuration list for PBXNativeTarget "Pull Refresh Animation_V2" */;
+			buildConfigurationList = 56C997532F39333A006DE9A9 /* Build configuration list for PBXNativeTarget "Pull Refresh Animation" */;
 			buildPhases = (
 				56C997442F393339006DE9A9 /* Sources */,
 				56C997452F393339006DE9A9 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				56C9974A2F393339006DE9A9 /* Pull Refresh Animation_V2 */,
+				56C9974A2F393339006DE9A9 /* Pull Refresh Animation */,
 			);
-			name = "Pull Refresh Animation_V2";
+			name = "Pull Refresh Animation";
 			packageProductDependencies = (
 			);
 			productName = "Pull Refresh Animation_V2";
-			productReference = 56C997482F393339006DE9A9 /* Pull Refresh Animation_V2.app */;
+			productReference = 56C997482F393339006DE9A9 /* Pull Refresh Animation.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 56C997432F393339006DE9A9 /* Build configuration list for PBXProject "Pull Refresh Animation_V2" */;
+			buildConfigurationList = 56C997432F393339006DE9A9 /* Build configuration list for PBXProject "Pull Refresh Animation" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				56C997472F393339006DE9A9 /* Pull Refresh Animation_V2 */,
+				56C997472F393339006DE9A9 /* Pull Refresh Animation */,
 			);
 		};
 /* End PBXProject section */
@@ -309,7 +309,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		56C997432F393339006DE9A9 /* Build configuration list for PBXProject "Pull Refresh Animation_V2" */ = {
+		56C997432F393339006DE9A9 /* Build configuration list for PBXProject "Pull Refresh Animation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				56C997512F39333A006DE9A9 /* Debug */,
@@ -318,7 +318,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		56C997532F39333A006DE9A9 /* Build configuration list for PBXNativeTarget "Pull Refresh Animation_V2" */ = {
+		56C997532F39333A006DE9A9 /* Build configuration list for PBXNativeTarget "Pull Refresh Animation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				56C997542F39333A006DE9A9 /* Debug */,
